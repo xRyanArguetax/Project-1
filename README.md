@@ -57,7 +57,7 @@ Whenever it is your turn, you place a card down, making you have 1 less card on 
  
  
  # Main
- ''' c++
+ ```c++
  #include <iostream>
 #include <fstream>
 #include <string>
@@ -81,7 +81,7 @@ int main() {
     system("pause");
     return 0;
 };
-'''
+```
  
 
 
