@@ -1,4 +1,10 @@
 # Project-1
+# UNO
+# Ryan Argueta
+# CSC 17C
+# 10/20/19
+
+#Introduction 
 
 
 # Card.cpp
