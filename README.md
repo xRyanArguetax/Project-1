@@ -1,6 +1,6 @@
 # Project-1
 
 # Class Main
-member function | Dsc |
+Mmber Function | Dsc |
 | --------------| ---- |
-| Content Cell  | Content |
+| Card::Card(string value, string type, int score, int dealerScore)| Constructor |
