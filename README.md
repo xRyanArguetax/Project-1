@@ -5,6 +5,7 @@
 # Card.cpp
 Member Function | Dsc |
 | --------------| ---- |
+| Card::Card(string value, string type, int score, int dealerScore) | Constructor |
 | void Card::setValue(string value) | Sets value |
 | void Card::setType(string type) | Sets type |
 | void Card::setScore(int score) | Sets score |
