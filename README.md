@@ -42,6 +42,18 @@ If the entire deck is used during play, the top discard is set aside and the res
  
  
  
+## Summary
+Project Size : 564 lines
+This project included concepts we went over such as vectors, algorithms, and iterators.
+This project is a basic game of UNO.
+I could improve the game more for example, if player one puts 1 yellow card down and its player two turn, if another player has exactly a 1 yellow card, they can put it down, skipping player two for being to slow to put a card down.
+
+This project opened me to more experience using STL though at first I was having a little trouble here and there, but using the STL book as my reference, the book helped me to use the STL more properly. This project definitely was very challenging. To be honest, I'm not pleased with my project, but doing this game did make me learn many things throughout the development. Overall, the thinking I put in this was fun seeing the game UNO work.
+
+## Description
+The point of this game is to be the first to have no cards left to play. 
+Whenever it is your turn, you place a card down, making you have 1 less card on your deck.
+ 
  
  
 
