@@ -3,15 +3,13 @@
 # Class Main
 
 # Card.cpp
-Mmber Function | Dsc |
+Member Function | Dsc |
 | --------------| ---- |
-##Setters
-| void Card::setValue(string value) | sets value |
-| string Card::getValue() | returns value |
-| string Card::getValue() | returns value |
-| string Card::getValue() | returns value |
-| string Card::getValue() | returns value |
-| Card::Card(string value, string type, int score, int dealerScore)| Constructor |
+| void Card::setValue(string value) | Sets value |
+| void Card::setType(string type) | Sets type |
+| void Card::setScore(int score) | Sets score |
+| void Card::setDealerScore(int dealerScore) | sets dealerScore |
+| void Card::setInHand(bool isInHand) | Sets isInHand |
 | string Card::getValue()| returns value |
 | string Card::getType()| returns type |
 | int Card::getScore()| returns score |
