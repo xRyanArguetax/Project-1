@@ -5,7 +5,6 @@
 # Card.cpp
 Mmber Function | Dsc |
 | --------------| ---- |
-
 | void Card::setValue(string value) | sets value |
 | string Card::getValue() | returns value |
 | string Card::getValue() | returns value |
