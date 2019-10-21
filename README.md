@@ -59,7 +59,7 @@ Whenever it is your turn, you place a card down, making you have 1 less card on 
 
 
 # Card.cpp
-Member Function | Dsc |
+Member Function | Description |
 | --------------| ---- |
 | Card::Card(string value, string type, int score, int dealerScore) | Constructor |
 | void Card::setValue(string value) | Sets value |
